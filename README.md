@@ -12,11 +12,11 @@ If I make your life easier, please, let me know ;)
 
 ## Brief overview 
 <p> Notebook <b>Google Colab Pro</b> </p>
+<p> Datasets <b>CIFAR-100, Dogs-vs-Cats</b> </p>
 <p> Architecture <b>U-Net</b> </p>
 <p> Framework <b>PyTorch</b> </p>
 <p> Optimizer <b>Adam</b> </p>
 <p> Loss <b>MSE</b> </p>
-<p> Datasets <b>CIFAR-100, Dogs-vs-Cats</b> </p>
 
 
 ## Notebook
@@ -28,6 +28,8 @@ Google Colab gives you 12,5 GB of RAM for free and it's enough if you work with 
 ## Architecture - U-Net
 <p> 
 U-Net is a fully convolutional network. It has a u-shape architecture that actually is an encoder-decoder type. U-Net has 31,042,434 parameters, so the training holds from few hours to half of the day depending on the dataset you use. So be patient. 
+
+I trained 3 models 
 </p> 
 
 ## Framework - PyTorch
