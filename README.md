@@ -3,7 +3,7 @@
 
 
 ## Author's Note!
-The model presented here was done as final project for my ML training course. Whole code was written by me except adopted block of moving average and [model summary for PyTorch](https://github.com/pytorch/pytorch/issues/2001#issuecomment-405675488). 
+The model presented here was done as final project for my ML training course. Whole code was written by me except adopted block of moving average from ZELDA framework by Michael Konstantinov and [model summary for PyTorch](https://github.com/pytorch/pytorch/issues/2001#issuecomment-405675488) by . 
 The sources I used for creating the project you can find in model notebook or right here after main text body. 
 I faced a lot of tricky issues implementing the project (they are discussed below too), so I hope this code will help someone. 
 Please, feel free to use the code for your education. Also I'm open to commentaries and suggestions. 
