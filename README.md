@@ -3,11 +3,11 @@
 
 
 ## Author's Note!
-The model presented here was done as final project for my ML training course. Whole code was written by me except adopted implementation of moving average from ZELDA framework by [Michael Konstantinov](https://www.linkedin.com/in/michael-konstantinov/) and [model summary for PyTorch](https://github.com/pytorch/pytorch/issues/2001#issuecomment-405675488) implemented by [Jong Wook Kim](https://github.com/jongwook). 
-The sources I used for creating the project you can find in model notebook or right here after main text body. 
+The model presented here was my final project for my ML training course. The whole code was written by me except adopted implementation of moving average from ZELDA framework by [Michael Konstantinov](https://www.linkedin.com/in/michael-konstantinov/) and [model summary for PyTorch](https://github.com/pytorch/pytorch/issues/2001#issuecomment-405675488) implemented by [Jong Wook Kim](https://github.com/jongwook). 
+The sources I used for creating the project you can find in the model notebook or right here after the main text body. 
 I faced a lot of tricky issues implementing the project (they are discussed below too), so I hope this code will help someone. 
-Please, feel free to use the code for your education. Also I'm open to commentaries and suggestions. 
-If I make your life easier, please, let me know ;)
+Please, feel free to use the code for your education. Also I'm open to comments and suggestions. 
+If this repo helps you, please, let me know ;)
 
 
 ## Brief overview 
